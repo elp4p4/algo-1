@@ -28,6 +28,7 @@
 's': cptChar=24
 '.': End loop.
 
-> Number of characters: 25
+> Output:
+- Number of characters: 25
 - Number of words: 4
 - Number of vowels: 8
