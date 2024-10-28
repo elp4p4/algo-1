@@ -38,7 +38,7 @@ BEGIN
 
 // outputs
 
-    Write("Number of characters: ", cptChar);
+    Write("Number of characters: ", cptChar + 1);
     Write("Number of words: ", cptW + 1);
     Write("Number of vowels: ", cptV);
 END
