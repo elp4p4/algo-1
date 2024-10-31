@@ -13,10 +13,11 @@ BEGIN
     cptChar := 0; 
     cptW := 0;
     cptV := 0;
-    char := sen[0];
 
     Write("Put your sentence");
     Read(sen);
+
+    char := sen[0];
 
 // process    
 
